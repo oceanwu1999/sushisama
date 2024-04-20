@@ -2,7 +2,7 @@ import numpy as np
 from tqdm import tqdm
 from kmeans import KMeans
 
-#111
+#1112
 SIGMA_CONST = 1e-6
 LOG_CONST = 1e-32
 
